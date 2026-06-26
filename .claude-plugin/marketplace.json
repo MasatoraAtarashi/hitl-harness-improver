@@ -1,0 +1,16 @@
+{
+  "name": "masatora-marketplace",
+  "owner": {
+    "name": "Masatora Atarashi",
+    "url": "https://github.com/MasatoraAtarashi"
+  },
+  "plugins": [
+    {
+      "name": "hitl-harness-improver",
+      "source": ".",
+      "description": "Claude Code の HITL 判断パターンから permissions / Stop hook / CLAUDE.md・文脈 の 3 層でハーネス改善を提案する skill",
+      "version": "0.1.0",
+      "category": "self-improvement"
+    }
+  ]
+}

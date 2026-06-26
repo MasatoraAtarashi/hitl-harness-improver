@@ -1,0 +1,7 @@
+reports/*.md
+reports/*.json
+!reports/.keep
+__pycache__/
+*.pyc
+.DS_Store
+*.log

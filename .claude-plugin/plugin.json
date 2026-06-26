@@ -1,0 +1,19 @@
+{
+  "name": "hitl-harness-improver",
+  "version": "0.1.0",
+  "description": "Claude Code の過去セッションを横断走査し、実際に起きた Human-in-the-Loop の判断パターン (人間が止めた / エージェントが聞いた / 人間が是正した) から、permissions / Stop hook / CLAUDE.md・文脈 の 3 層でハーネス改善を提案する skill。設定の自動編集はしない。",
+  "author": {
+    "name": "Masatora Atarashi",
+    "url": "https://github.com/MasatoraAtarashi"
+  },
+  "homepage": "https://github.com/MasatoraAtarashi/hitl-harness-improver",
+  "license": "UNLICENSED",
+  "keywords": [
+    "claude-code",
+    "human-in-the-loop",
+    "hitl",
+    "harness",
+    "permissions",
+    "self-improvement"
+  ]
+}
